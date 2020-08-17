@@ -4,7 +4,7 @@ namespace CSExercises
 {
     class Chapeter3ex
     {
-        static void LocalMain(string[] args)
+        public static void LocalMain(string[] args)
         {
             Console.Write(" ###### ESERCIZIO 3.15 ######\n");
 

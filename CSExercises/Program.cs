@@ -6,7 +6,8 @@ namespace CSExercises
     {
         static void Main(string[] args)
         {
-            BMICalculator.LocalMain(args);
+            //BMICalculator.LocalMain(args);
+            //Chapeter3ex.LocalMain(args);
         }
     }
 }
