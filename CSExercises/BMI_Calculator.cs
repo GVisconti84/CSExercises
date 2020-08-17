@@ -14,8 +14,7 @@ namespace CSExercises
 
             bmi = (weight) / (Math.Pow(height, 2));
 
-            Console.WriteLine("BMI: {0}", bmi);
-            Console.WriteLine("BMI VALUE");
+            Console.WriteLine("BMI: {0}\nBMI VALUE\n", bmi);
             Console.WriteLine("Underweight: less than {0}", 18.5);
             Console.WriteLine("Normal:      between {0} and {1}", 18.5, 24.9);
             Console.WriteLine("Overweight:  between {0} and {1}", 25, 29.9);
