@@ -15,7 +15,7 @@ namespace CSExercises
             //AccountTest.LocalMain(args);
             //InvoiceTest.LocalMain(args);
             //EmployeeTest.LocalMain(args);
-           
+            Date_Test.LocalMain(args);
 
             
         }
